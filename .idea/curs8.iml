@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../code/src/ro/fasttrackit/curs8/homework4">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../code/src/ro/fasttrackit/curs8/homework4" isTestSource="false" packagePrefix="ro.fasttrackit.curs8.homework4" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../homework/src/ro/fasttrackit/curs8/homework/interfaces">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../homework/src/ro/fasttrackit/curs8/homework/interfaces" isTestSource="false" packagePrefix="ro.fasttrackit.curs8.homework.interfaces" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../homework/src/ro/fasttrackit/curs8/homework2/interfaces">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../homework/src/ro/fasttrackit/curs8/homework2/interfaces" isTestSource="false" packagePrefix="ro.fasttrackit.curs8.homework2.interfaces" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../homework/src/ro/fasttrackit/curs8/homework3/interfaces">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../homework/src/ro/fasttrackit/curs8/homework3/interfaces" isTestSource="false" packagePrefix="ro.fasttrackit.curs8.homework3.interfaces" />
+    </content>
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
